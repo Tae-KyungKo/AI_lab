@@ -1,0 +1,13 @@
+# ignore virtual environment settings
+.venv/
+venv/
+
+# ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ignore Jupyter Notebook checkpoints
+.DS_Store
+*.log
